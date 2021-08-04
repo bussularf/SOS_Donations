@@ -1,4 +1,5 @@
 class DonationsController < ApplicationController
+  
   def new
     @campaign = Campaign.find(params[:campaign_id])
     @donation = Donation.new
