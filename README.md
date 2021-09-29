@@ -1,6 +1,6 @@
 ![logo_blank](https://sos-donations.herokuapp.com/assets/sos-donations-logo-b4ce111f01c7acbeea1a5ce15f9ddad6d0cd1f685313df294e7275f8dc5de5ad.png)
 
-Project made with Ruby on Rails and deployed to Heroku at https://sos-donations.herokuapp.com/.
+Project made with Ruby on Rails and deployed to Heroku at https://sosdonations.herokuapp.com/.
 
 Project presentation on YouTube: https://www.youtube.com/watch?v=ocH6SNuStps
 
